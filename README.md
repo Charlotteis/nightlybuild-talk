@@ -1,5 +1,7 @@
 # Open Open Source
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Charlotteis/nightlybuild-talk.svg)](https://greenkeeper.io/)
+
 A talk for [nightlybuild.io].
 
 Although the word is in the name, Open Source is not always very open.
